@@ -1,0 +1,26 @@
+[
+    {
+        "image": "../assets/chili.png",
+        "name": "chili"
+    },
+    {
+        "image": "../assets/lemon.png",
+        "name": "lemon"
+    },
+    {
+        "image": "../assets/strawberry.png",
+        "name": "strawberry"
+    },
+    {
+        "image": "../assets/tomato.png",
+        "name": "tomato"
+    },
+    {
+        "image": "../assets/watermelon.png",
+        "name": "watermelon"
+    },
+    {
+        "image": "../assets/cherries.png",
+        "name": "cherries"
+    }
+]
